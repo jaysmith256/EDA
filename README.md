@@ -1,4 +1,4 @@
-# EDA Introduction Tutorial
+#Explatory Data Analyis (EDA) using Red Wine Quaulity Data - Introduction Tutorial
 
 Objective of the project:
 *Provide introductory tutorial of common exploratory data analysis using Python's Pandas and Numpy libraries
